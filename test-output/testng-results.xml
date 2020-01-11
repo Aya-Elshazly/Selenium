@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10992" started-at="2019-12-17T08:23:02Z" finished-at="2019-12-17T08:23:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10992" started-at="2019-12-17T08:23:02Z" finished-at="2019-12-17T08:23:13Z">
+      <class name="Selenium.test">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Selenium.test@76b0bfab]" name="setUp" is-config="true" duration-ms="6752" started-at="2019-12-17T08:23:02Z" finished-at="2019-12-17T08:23:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testFileUpload()[pri:0, instance:Selenium.test@76b0bfab]" name="testFileUpload" duration-ms="3105" started-at="2019-12-17T08:23:09Z" finished-at="2019-12-17T08:23:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFileUpload -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Selenium.test@76b0bfab]" name="tearDown" is-config="true" duration-ms="1112" started-at="2019-12-17T08:23:12Z" finished-at="2019-12-17T08:23:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Selenium.test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
